@@ -15,5 +15,5 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/fluxbox/a
 #### Activating theme
 
 1. Download and place the repository folder (dracula) in the `~/.fluxbox/styles` directory.
-2. Select with the FluxBox configuration the **dracula style**. 
+2. Select with the FluxBox configuration the **dracula style**.
 3. Boom! It's working ✨
